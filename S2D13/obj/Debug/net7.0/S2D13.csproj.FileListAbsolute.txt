@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminar\S2D13\bin\Debug\net7.0\S2D13.exe
+C:\Users\Lenovo\Desktop\Seminar\S2D13\bin\Debug\net7.0\S2D13.deps.json
+C:\Users\Lenovo\Desktop\Seminar\S2D13\bin\Debug\net7.0\S2D13.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminar\S2D13\bin\Debug\net7.0\S2D13.dll
+C:\Users\Lenovo\Desktop\Seminar\S2D13\bin\Debug\net7.0\S2D13.pdb
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.dll
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\refint\S2D13.dll
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.pdb
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\S2D13.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminar\S2D13\obj\Debug\net7.0\ref\S2D13.dll
