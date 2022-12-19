@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\bin\Debug\net7.0\S5DZ34.exe
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\bin\Debug\net7.0\S5DZ34.deps.json
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\bin\Debug\net7.0\S5DZ34.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\bin\Debug\net7.0\S5DZ34.dll
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\bin\Debug\net7.0\S5DZ34.pdb
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.dll
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\refint\S5DZ34.dll
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.pdb
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\S5DZ34.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminar\S5DZ34\obj\Debug\net7.0\ref\S5DZ34.dll

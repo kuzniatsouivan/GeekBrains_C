@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\bin\Debug\net7.0\S4DZ27.exe
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\bin\Debug\net7.0\S4DZ27.deps.json
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\bin\Debug\net7.0\S4DZ27.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\bin\Debug\net7.0\S4DZ27.dll
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\bin\Debug\net7.0\S4DZ27.pdb
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.dll
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\refint\S4DZ27.dll
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.pdb
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\S4DZ27.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminar\S4DZ27\obj\Debug\net7.0\ref\S4DZ27.dll
