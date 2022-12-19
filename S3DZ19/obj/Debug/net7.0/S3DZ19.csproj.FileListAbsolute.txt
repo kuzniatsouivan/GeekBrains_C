@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\bin\Debug\net7.0\S3DZ19.exe
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\bin\Debug\net7.0\S3DZ19.deps.json
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\bin\Debug\net7.0\S3DZ19.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\bin\Debug\net7.0\S3DZ19.dll
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\bin\Debug\net7.0\S3DZ19.pdb
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.dll
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\refint\S3DZ19.dll
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.pdb
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\S3DZ19.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminar\S3DZ19\obj\Debug\net7.0\ref\S3DZ19.dll
